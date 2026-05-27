@@ -1,1 +1,0 @@
-SmartBistro project documentation
